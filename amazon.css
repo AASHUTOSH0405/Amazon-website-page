@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+.navbar{
+    height: 60px;
+    background-color: #ff6200;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.navlogo{
+height: 50px;
+width: 100px;
+}
+.logo{
+    background-image: url(https://1000logos.net/wp-content/uploads/2016/10/Amazon-Logo-2000.png);
+    background-size: cover;
+    height: 50px;
+    width: 100%;
+
+}
+.border{
+
+    border: 2px solid transparent;
+
+}
+.border:hover{
+    border: 2px solid white;}
+/* box2  */
+.addst{
+    color: #cccccc;
+    font-size: 0.85rem;
+    margin-left: 15px;
+}
+.addstyl{
+    font-size: 1rem;
+}
+.adress{
+    display: flex;
+    align-items: center;
+}
+/* box3 */
+.navsearch{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: blanchedalmond;
+    width: 620px;
+    height: 40px;
+    border-radius: 4px;
+}
+.search-select{
+    background-color: #f3f3f3;
+    width: 50px;
+    text-align: center;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border: none;
+}
+.search-input{
+    width: 100%;
+    font-size: 1rem;
+    border: none;
+}
+.search-icon{
+    width: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    background-color: #f3f3f3;
+    border-top-left-radius: 4px;
+    border-bottom-right-radius:4px ;
+}
+.navsearch:hover{
+    border: 2px solid black;
+}
+/* 4th box */
+span{
+ font-size: 0.70rem;
+}
+.navsecond{
+    font-size: 0.85rem;
+}
+/* box 4 */
+.return{
+    font-size: 0.7rem;
+}
+/* box 5 */
+.cart i{
+    font-size: 30px;
+}
+.car{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+/*nice  */
+.panel{
+    height: 40px;
+    background-color: #ff9946;
+   align-items: center;
+   justify-content: space-evenly;
+    display: flex;  /*ager main div class ko ye krr doge to sab ek line me aa jayenge main div ke ander wale*/
+}
+.panelopps p{
+    display: inline; /*isase paragraph wale ek line aa jayenge*/
+    margin-left: 10px;  
+}
+.panelopps{
+    width: 70%;
+    font-size: 0.85rem;
+}
+.herosection{
+    background-image: url(hi\ \(1\).jpg);
+    background-size: cover;
+    height: 600px;
+}
