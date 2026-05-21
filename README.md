@@ -32,6 +32,6 @@ The purpose of this project is to practice frontend web development and improve 
 - Add product slider and animations
 
 ## DEMO
-!(screenshot)[Screenshot 2026-05-21 113555.png]
+![screenshot](Screenshot 2026-05-21 113555.png)
 ## Author
 Aashutosh Kumar
